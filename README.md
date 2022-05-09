@@ -4,8 +4,6 @@ I am Abdul Razak from Indonesia. I go by [karazubald](https://t.me/karazubald) �
 
 #### Personal stuffs
 - 🧑‍🤝‍🧑 Looking for involvement in Psychology, Psychometric Research, or Data Analysis 👨‍🔬
-- 🌱 Currently learning Java 👨‍💻
-- 🖌️ Know a bit of Graphic Design with Inkscape 😅
 - 🏷️ Have an intermediate level of understanding in English (TOEFL = 567 and TOEIC = 405 in 2015) 🤭
 
 ### My Focus
